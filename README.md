@@ -1,5 +1,5 @@
 # Trump-Twitter-Insults
-<https://cdn.vox-cdn.com/thumbor/b0g7Bkz6pGy4PjKbugDquugGszE=/0x0:4413x3506/1200x800/filters:focal(2163x1013:2869x1719)/cdn.vox-cdn.com/uploads/chorus_image/image/66549870/1214574357.jpg.0.jpg>
+<'https://cdn.vox-cdn.com/thumbor/b0g7Bkz6pGy4PjKbugDquugGszE=/0x0:4413x3506/1200x800/filters:focal(2163x1013:2869x1719)/cdn.vox-cdn.com/uploads/chorus_image/image/66549870/1214574357.jpg.0.jpg'>
 
 A representation of Trump's twitter insults
 
